@@ -5,15 +5,9 @@ This project features a neumorphism UI design with soft shadows and glowing butt
 
 ---
 
-🌐 Live Demo
-
-🔗 https://MedaAbhinav.github.io/calculator-app/
-
----
-
 📸 Screenshot
 
-"Calculator UI" (./screenshot.png)
+![Calculator UI](./calculator.png)
 
 ---
 
@@ -69,6 +63,5 @@ git clone https://github.com/MedaAbhinav/calculator-app.git
 🙌 Author
 
 Abhinav Meda
-🔗 https://github.com/MedaAbhinav
 
 ---
